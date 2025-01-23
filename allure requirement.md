@@ -36,4 +36,4 @@ Token: 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  -- No expiry
 ---- configure in VS code project
 run command
 - git config --global credential.helper store
-- git config --global credential.https://github.com.token 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
+- git config --global credential.https://github.com.token 
