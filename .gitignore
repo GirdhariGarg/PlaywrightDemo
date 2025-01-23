@@ -5,3 +5,4 @@ node_modules/
 /playwright/.cache/
 /playwright/allure-report/
 /playwright/allure-results/
+/playwright/allure requirement.md
