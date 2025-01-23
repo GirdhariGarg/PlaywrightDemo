@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3065","handle prompt","chromium","Wed Jan 22 16:51:55 EST 2025","failed","Wed Jan 22 16:51:58 EST 2025","","handleAlerts.spec.js","",""
+"","7240","handle prompt","firefox","Wed Jan 22 16:51:55 EST 2025","failed","Wed Jan 22 16:52:02 EST 2025","","handleAlerts.spec.js","",""
+"","4807","handle prompt","webkit","Wed Jan 22 16:51:55 EST 2025","failed","Wed Jan 22 16:52:00 EST 2025","","handleAlerts.spec.js","",""

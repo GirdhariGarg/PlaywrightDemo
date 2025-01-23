@@ -1,0 +1,13 @@
+{
+    "username":"john",
+    "password":"sam",
+    "firstName":"Girdhari",
+    "lastName":"Garg",
+    "country":["India", "United states", "UK"],
+    "address":{
+        "area":"Dawson",
+        "zipcode":30033,
+        "city":"Atlanta"
+    }
+    
+}
