@@ -30,7 +30,7 @@ git push -u origin main
 /////////////////////////////////
 --- generate token from github
 user icon->settings->developer settings- personal token -> classic token -- Fill all info and tick all checkboxes, Copy generated token
-Token: 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  -- No expiry
+
 
 
 ---- configure in VS code project
