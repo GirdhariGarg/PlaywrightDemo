@@ -30,7 +30,6 @@ git push -u origin main
 /////////////////////////////////
 --- generate token from github
 user icon->settings->developer settings- personal token -> classic token -- Fill all info and tick all checkboxes, Copy generated token
-
 ---- configure in VS code project
 run command
 - git config --global credential.helper store
