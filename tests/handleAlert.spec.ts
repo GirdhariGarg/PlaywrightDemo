@@ -1,4 +1,5 @@
-const {test, expect} = require("@playwright/test");
+import {test, expect} from "@playwright/test";
+
 const exp = require("node:constants");
 
 
@@ -37,7 +38,7 @@ test("handle confirm", async({page})=>{
     await page.locator("[onclick='jsConfirm()']").click();
 })
 
-test.only("handle prompt", async({page})=>{
+test("handle prompt", async({page})=>{
     await page.goto("https://the-internet.herokuapp.com/javascript_alerts");
 
     
